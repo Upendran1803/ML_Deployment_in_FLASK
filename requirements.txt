@@ -1,5 +1,4 @@
 absl-py==1.0.0
-anaconda-client==1.9.0
 anaconda-navigator==2.0.3
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
