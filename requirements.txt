@@ -1,5 +1,4 @@
 anaconda-client
-anaconda-navigator
 brotlipy
 conda-build
 conda-package-handling
