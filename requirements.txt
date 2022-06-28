@@ -59,3 +59,4 @@ wordcloud
 xgboost
 xmltodict
 yellowbrick
+setuptools==1.0
