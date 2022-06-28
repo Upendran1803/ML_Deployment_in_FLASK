@@ -24,7 +24,6 @@ jupyter-http-over-ws
 keras-applications
 keras-vggface
 mediapipe
-mkl-fft
 mkl-random
 mkl-service
 mss
