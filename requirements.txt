@@ -5,7 +5,6 @@ darknet
 datacompy
 dill
 emoji
-excel2json-3
 facexlib
 facial-emotion-recognition
 flask
