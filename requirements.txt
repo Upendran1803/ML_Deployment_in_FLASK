@@ -1,7 +1,6 @@
 anaconda-client
 brotlipy
 conda-build
-conda-package-handling
 conda-repo-cli
 conda-token
 conda-verify
