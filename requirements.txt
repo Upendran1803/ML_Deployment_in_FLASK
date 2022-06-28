@@ -1,8 +1,6 @@
 anaconda-client
 brotlipy
 conda-build
-conda-token
-conda-verify
 darknet
 datacompy
 dill
