@@ -27,7 +27,6 @@ mediapipe
 mss
 mtcnn
 natsort
-navigator-updater
 np-utils
 object-detection
 opendatasets
