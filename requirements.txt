@@ -33,5 +33,4 @@ xgboost
 xmltodict
 nltk
 wordnet
-pros_cons
 reuters
