@@ -31,4 +31,4 @@ wget
 wordcloud
 xgboost
 xmltodict
-nltk.txt
+nltk
