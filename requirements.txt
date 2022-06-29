@@ -32,5 +32,3 @@ wordcloud
 xgboost
 xmltodict
 nltk
-wordnet
-reuters
