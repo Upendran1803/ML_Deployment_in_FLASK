@@ -49,4 +49,3 @@ wget
 wordcloud
 xgboost
 xmltodict
-setuptools
