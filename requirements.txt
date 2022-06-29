@@ -1,6 +1,5 @@
 anaconda-client
 brotlipy
-conda-build
 darknet
 datacompy
 dill
