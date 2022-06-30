@@ -31,3 +31,4 @@ wget
 wordcloud
 xgboost
 xmltodict
+nltk>=3.4.5
