@@ -72,15 +72,15 @@ def predict():
         output = key[val.index(result)]
         
         if output == 'L1/L2':
-            group = model_l1_l2.predict(data)
+            groups = model_l1_l2.predict(data)
 
         # send back to browser
-            output_final = key_list2[val_list2.index(group)]
+            output_final = key_list2[val_list2.index(groups)]
         else:
-            group = model_l3.predict(data)
+            groups = model_l3.predict(data)
 
         # send back to browser
-            output_final = key_list[val_list.index(group)]
+            output_final = key_list[val_list.index(groups)]
 
     # return data
     return render_template('result.html', prediction=output_final, team=output)
