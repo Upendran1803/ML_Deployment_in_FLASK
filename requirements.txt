@@ -13,4 +13,4 @@ pandas>=0.19
 nltk>=3.4.5
 textblob
 dill
-pip install git+https://github.com/BoseCorp/py-googletrans.git --upgrade
+googletrans>=3.0.0
