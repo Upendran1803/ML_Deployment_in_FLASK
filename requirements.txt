@@ -13,3 +13,4 @@ pandas>=0.19
 nltk>=3.4.5
 textblob
 googletrans
+dill
