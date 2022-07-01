@@ -85,7 +85,5 @@ def predict():
     # return data
     return render_template("result.html", prediction=output_final, team=output)
 
-
-if __name__ == '__main__':
-          
-       app.run(debug=True)
+if __name__ == "__main__":
+    app.run(debug=True)
