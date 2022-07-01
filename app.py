@@ -46,7 +46,7 @@ val_list2 = list(encoding_l2.values())
 app = Flask(__name__)
 
 
-@app.route("/")
+@app.route("/",methods=["GET", "POST"])
 def home():
     return render_template('home.html')
 
@@ -86,4 +86,4 @@ def predict():
 
 
 if __name__ == '__main__':
-    app.run(port=0000, debug=True)
+    app.run()
