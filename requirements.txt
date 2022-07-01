@@ -12,5 +12,5 @@ matplotlib>=1.4.3
 pandas>=0.19
 nltk>=3.4.5
 textblob
-googletrans
 dill
+pip install git+https://github.com/BoseCorp/py-googletrans.git --upgrade
